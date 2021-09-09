@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ابق متيقظا</string>
+    <string name="action_settings">إعدادات</string>
+    <string name="app_info">معلومات التطبيق</string>
+
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">يلزم الوصول إلى الكاميرا للكشف</string>
+    <string name="no_camera_permission">لا يمكن تشغيل هذا التطبيق لأنه ليس لديه إذن الكاميرا. سيتم اغلاق التطبيق الآن</string>
+    <string name="low_storage_error">OpenEyes dependencies cannot be downloaded due to low device storage</string>
+
+    <string name="apply_msg">تم تطبيق التغييرات</string>
+    <string name="intro_msg">عندما تغمض عينيك, ستسمع الانذار</string>
+    <string name="app_description">Eyes open هو تطبيق الذي ينبهك النعاس أثناء القيادة أو الدراسة.</string>
+    <string name="apply">تطبق</string>
+    <string name="close">اغلاق</string>
+    <string name="sensitivity">حساسية</string>
+    <string name="alarmPoint">نقطة مرجعية لل إنذار</string>
+    <string name="useful_tips">نصائح مفيدة</string>
+    <string name="alert_dialog_tips">1- يعمل جهاز كشف الوجه فقط في الوضع الرأسي.
+         \n2- لاستخدام التطبيق في الخلفية ، أغلق التطبيق من شاشة التشغيل.
+         \n3- لإغلاق التطبيق تمامًا ، ما عليك سوى النقر على زر الاشعارات.</string>
+    <string name="turn_off">أطفئ المصباح</string>
+    <string name="turn_on">أشعل المصباح</string>
+    <string name="no_camera_flash">الفلاش غير متوفر في هذا الجهاز ...</string>
+    <string name="sensitivity_alert_dialog">هذه الخاصية تعتمد على الضوء المحيط بك</string>
+    <string name="cannot_use_flash">لا يمكن استخدام الفلاش مع الكاميرا الخلفية</string>
+
+</resources>
+
+

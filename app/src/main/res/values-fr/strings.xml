@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Les yeux ouverts</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="app_info">"Informations sur l'application"</string>
+
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">"L'accès à la caméra est nécessaire pour la détection "</string>
+    <string name="no_camera_permission">Cette application ne peut pas s\'exécuter car elle ne dispose pas de l\'autorisation de caméra. L\'application va maintenant se fermer.</string>
+    <string name="low_storage_error">les dépendances yeux ouvertes ne peuvent pas être téléchargées en raison du faible stockage de l\'appareil</string>
+
+    <string name="apply_msg">Les changements ont été appliqués</string>
+    <string name="intro_msg">Lorsque vous fermez les yeux , vous entendrez des bips</string>
+    <string name="app_description">ouvre tes yeux est une application qui alerte la somnolence au volant</string>
+
+    <string name="apply">appliquer</string>
+    <string name="close">Fermer</string>
+    <string name="sensitivity">sensibilité</string>
+    <string name="alarmPoint">point</string>
+    <string name="useful_tips">Conseils utiles</string>
+    <string name="alert_dialog_tips">"1- Le détecteur de visage ne fonctionne qu'en mode portrait.
+         \n2- Pour utiliser l'application en arrière-plan, fermez simplement l'application à partir de l'écran de lancement.
+         \n3- Pour fermer complètement l'application, cliquez simplement sur le bouton de notification."</string>
+    <string name="turn_off">Éteignez la lampe de poche</string>
+    <string name="turn_on">Allumez la lampe de poche</string>
+    <string name="no_camera_flash">Flash non disponible sur cet appareil ...</string>
+    <string name="sensitivity_alert_dialog">Cette fonctionnalité dépend de la lumière qui vous entoure</string>
+    <string name="cannot_use_flash">La lampe de poche ne peut pas être utilisée avec la caméra arrière</string>
+</resources>
+
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geöffnete Augen</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="app_info">Bewerbungs informationen</string>
+
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Zur Erkennung ist ein Zugriff auf die Kamera erforderlich</string>
+    <string name="no_camera_permission">Diese Anwendung kann nicht ausgeführt werden, da sie nicht über die Kameraberechtigung verfügt. Die Anwendung wird jetzt beendet.</string>
+    <string name="low_storage_error">Abhängigkeiten von offenen Augen können aufgrund des geringen Gerätespeichers nicht heruntergeladen werden</string>
+
+    <string name="apply_msg">Die Änderungen wurden angewendet</string>
+    <string name="intro_msg">Wenn Sie die Augen schließen , werden Sie Töne hören</string>
+    <string name="app_description">OffeneAugen ist eine Anwendung, die Schläfrigkeit alarmiert beim Fahren oder studieren. Etc.</string>
+
+    <string name="apply">anwenden</string>
+    <string name="close">schließen</string>
+    <string name="sensitivity">Empfindlichkeit</string>
+    <string name="alarmPoint">Bezugspunkt der Alarm</string>
+    <string name="useful_tips">Nützliche Tipps</string>
+    <string name="alert_dialog_tips">1- Der Gesichtsdetektor funktioniert nur im Hochformat.
+    \n2- Um die App im Hintergrund zu verwenden, schließen Sie sie einfach vom Startbildschirm aus.
+        \n3- Um die App vollständig zu schließen, klicken Sie einfach auf die Benachrichtigungsschaltfläche.</string>
+    <string name="turn_off">Schalten Sie die Taschenlampe aus</string>
+    <string name="turn_on">Taschenlampe einschalten</string>
+    <string name="no_camera_flash">Flash ist in diesem Gerät nicht verfügbar ...</string>
+    <string name="sensitivity_alert_dialog">Diese Funktion hängt vom Licht um Sie herum ab</string>
+    <string name="cannot_use_flash">Taschenlampe kann nicht mit Rückkamera verwendet werden</string>
+
+</resources>
+
+
